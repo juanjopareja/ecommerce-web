@@ -352,16 +352,30 @@ img {
 }
 
 /* About Us */
-.about-content {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 4rem;
+@media (min-width: 768px) {
+    .about-content {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        column-gap: 4rem;
+    }
+
+    .about-image img{
+        height: 100%;
+        object-fit: cover;
+    }
 }
 
 .about-info {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 2rem;
+}
+
+@media (min-width: 768px) {
+    .about-info {
+        padding: 0;
+    }
 }
 
 /* Blog */
