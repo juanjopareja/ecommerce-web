@@ -185,6 +185,7 @@ img {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 2rem;
+        margin-bottom: 5rem;
     }
 }
 
@@ -391,11 +392,20 @@ img {
     }
 }
 
+
 /* Blog */
+.blog-content aside {
+    margin-left: 2rem;
+}
+
 @media (min-width: 768px) {
     .blog-content {
         display: grid;
         grid-template-columns: 2fr 1fr;
+    }
+
+    .blog-content aside {
+        margin-left: 5rem;
     }
 }
 
@@ -472,6 +482,7 @@ img {
     width: 40rem;
     object-fit: cover;
 }
+
 
 /* Contact */
 .form {
