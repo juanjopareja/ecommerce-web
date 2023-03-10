@@ -1,5 +1,5 @@
 ## Descripción  
-Página web para un Ecommerce, en este caso una tienda de muebles, que forma parte de un conjunto de proyectos creados para practicar ***Flexbox**, **CSS Grid**, **Logical Properties**, **BEM**, **Responsive Web Design**, **Media Queries**, **Custom Properties**, **Gulp Workflows**, **SASS***, entre otros.
+Página web para un Ecommerce, en este caso una tienda de muebles, que forma parte de un conjunto de proyectos creados para practicar ***Flexbox**, **CSS Grid**, **Custom y Logical Properties**, **BEM**, **Responsive Web Design**, **Media Queries**, **Gulp Workflows**, **SASS***, entre otros.
 
 ## Tecnologías
 <span>
