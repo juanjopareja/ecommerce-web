@@ -9,6 +9,7 @@ Página web para un Ecommerce, en este caso una tienda de muebles, que forma par
 
 ## Proyectos relacionados:
   * [E-Commerce](https://github.com/juanjopareja/ecommerce-web)
+  * [TechPRO](https://github.com/juanjopareja/techpro-web)
 
 ## Vista previa
 <p align="center"><br>
