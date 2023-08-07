@@ -15,6 +15,7 @@ Página web para un Ecommerce, en este caso una tienda de muebles, que forma par
   * [La Cafetería](https://github.com/juanjopareja/la-cafeteria-web)
   * [DeliverEat](https://github.com/juanjopareja/delivereat-web)
   * [Real State](https://github.com/juanjopareja/real-state-web)
+  * Carolina SPA
 
 ## Vista previa
 <p align="center"><br>
