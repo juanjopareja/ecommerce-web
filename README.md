@@ -14,7 +14,7 @@ Página web para un Ecommerce, en este caso una tienda de muebles, que forma par
   * [Nucleus](https://github.com/juanjopareja/nucleus-web)
   * [La Cafetería](https://github.com/juanjopareja/la-cafeteria-web)
   * [DeliverEat](https://github.com/juanjopareja/delivereat-web)
-  * [Real State](https://github.com/juanjopareja/real-state-web)
+  * [Real Estate](https://github.com/juanjopareja/real-estate-web)
   * [Carolina SPA](https://github.com/juanjopareja/carolina-spa-web)
   * [Meeti](https://github.com/juanjopareja/meeti-web)
 
